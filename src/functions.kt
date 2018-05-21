@@ -9,5 +9,4 @@ fun area(base:Int,height:Int = base):Int {
 }
 
 fun sayHello(): Unit {
-    println("Hello")
 }
