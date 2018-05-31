@@ -8,6 +8,6 @@ fun area(base:Int,height:Int = base):Int {
     return (base * height)
 }
 
-fun sayHello() {
+fun sayHello():Unit {
     println("hello")
 }
